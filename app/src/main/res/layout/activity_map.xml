@@ -1,0 +1,300 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/enngeki_haikei">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/enngeki_waku">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="10"></LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingRight="25dp"
+            android:paddingLeft="25dp"
+            android:layout_weight="1">
+
+            <TabHost android:id="@android:id/tabhost"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <RelativeLayout android:layout_width="fill_parent"
+                    android:id="@+id/linearLayout1"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+                    <FrameLayout android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:id="@android:id/tabcontent"
+                        android:layout_alignParentTop="true">
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/contentlayout1"
+                            android:paddingBottom="70dp">
+
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:paddingLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="30sp"
+                                    android:text="The industrial soul"
+                                    android:layout_gravity="center"/>
+
+                                <LinearLayout
+                                    android:orientation="horizontal"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:paddingTop="5dp"
+                                    android:paddingBottom="5dp"
+                                    android:gravity="left">
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:src="@drawable/engeki_m"
+                                        android:layout_gravity="left" />
+                                    <LinearLayout
+                                        android:layout_width="70dp"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="vertical">
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text="The"
+                                            />
+
+                                        </LinearLayout>
+                                </LinearLayout>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="長岡高専は変わってしまった。生徒は工業への情熱を失い、入学者は徐々に減っていき、5つあった学科は1つを残して全てとり潰された。残された学科は、「機械工学科」だった。その後まもなくして、長岡高専は国から廃校を言い渡される。廃校を回避するたった一つの条件は、「『全国工業高等専門学校工業加工技術大会』で優勝すること」だった。しかしそんな絶望の最中、卓越した加工技術を持つ主人公、鉄 鋼太郎が機械工学科に転校してくる。鋼太郎ら機械工学科は廃校の危機から長岡高専を救うため、全国の高専に戦いを挑むのであった。\n\n場所：第一体育館\n上演時間：10：00～11：00"
+                                    android:textColor="#FFFFFF" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/contentlayout2"
+                            android:orientation="vertical"
+                            android:paddingBottom="70dp">
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="10">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="college order club"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="30sp"/>
+                            </LinearLayout>
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:paddingLeft="10dp">
+
+                                <LinearLayout
+                                    android:orientation="vertical"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:paddingTop="5dp"
+                                    android:paddingBottom="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="fill_parent"
+                                        android:src="@drawable/engeki_ee"
+                                        android:layout_weight="1"/>
+                                </LinearLayout>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Androidというと皆さんは、スマホのOSをイメージされる方が多いでしょう。ですが、本来は、人造人間のことを指す用語です。今回は、そんな人造人間と人間とのお話です。\n\n場所：第一体育館\n上演時間：11：15～12：15"
+                                    android:textColor="#FFFFFF" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/contentlayout3"
+                            android:paddingBottom="70dp">
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="10">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="コンティニュー？"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="30sp"/>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:paddingLeft="10dp">
+
+                                <LinearLayout
+                                    android:orientation="vertical"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:paddingTop="5dp"
+                                    android:paddingBottom="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="fill_parent"
+                                        android:src="@drawable/engeki_ci"
+                                        android:layout_weight="1"/>
+                                </LinearLayout>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="ヤンチャな男子3人組がテストを盗み出すために奮闘する物語です．笑いあり感動ありのストーリーで，大人より学生の方が共感できるかも！\n学年関係なく仲の良い環境都市工学科が一丸となってつくり上げる演劇を，是非見に来てください！\n\n場所：第一体育館\n上演時間：13：30～14：30"
+                                    android:textColor="#FFFFFF"/>
+                            </LinearLayout>
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/contentlayout4"
+                            android:paddingBottom="70dp">
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="10">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="天才少年と未来少女"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="30sp"/>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:paddingLeft="10dp">
+
+                                <LinearLayout
+                                    android:orientation="vertical"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:paddingTop="5dp"
+                                    android:paddingBottom="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="fill_parent"
+                                        android:src="@drawable/engeki_ec"
+                                        android:layout_weight="1"/>
+                                </LinearLayout>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="周囲を見下して生きている，その辺にいそうな『極普通』の天才少年の前に現れたのは，その辺にいそうな『極普通』の自称未来人の少女．発展しきった世界．人間の腐った心．時を渡る少女．知能と苦悩．世界に存在してはいけないモノ． 少年は何を得て何を捨てるのか．本当に大切なモノを知る物語\n3連覇します．\n\n場所：第一体育館\n上演時間：14：45～15：45"
+                                    android:textColor="#FFFFFF"
+                                    android:id="@+id/textView" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/contentlayout5"
+                            android:paddingBottom="70dp">
+
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:paddingLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="#FFFFFF"
+                                    android:textSize="30sp"
+                                    android:text="高校期"
+                                    android:layout_gravity="center"/>
+
+                                <LinearLayout
+                                    android:orientation="horizontal"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:paddingTop="5dp"
+                                    android:paddingBottom="5dp">
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:src="@drawable/engeki_ci" />
+                                </LinearLayout>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="誰もが経験した青春時代。幼馴染の3人は高校進学を機に少しずつ距離を持つようになる。すれ違う友情の結末は．．．\n\n場所：第一体育館\n上演時間：16：00～17：00"
+                                    android:textColor="#FFFFFF" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </FrameLayout>
+                    <TabWidget android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@android:id/tabs"
+                        android:background="#FfffFF"
+                        android:layout_alignParentBottom="true">
+                    </TabWidget>
+                </RelativeLayout>
+            </TabHost>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

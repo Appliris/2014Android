@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FE222222">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/contentlayout1"
+        android:paddingBottom="5dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:paddingLeft="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:text="タイトル"
+                android:id="@+id/title"
+                android:layout_gravity="center"
+                android:paddingBottom="10dp"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/noimage"
+                    android:id="@+id/picture" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/honbun"
+                android:text="本文"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

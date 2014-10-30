@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/roseleef_white">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="7"
+            android:paddingRight="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_weight="5.8">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="8">
+
+                        <TextView
+                            android:id="@+id/Info_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Title"
+                            android:textSize="25sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="10">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/Info_person"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="left"
+                                android:text="企画者" />
+
+                            <TextView
+                                android:id="@+id/Info_place"
+                                android:layout_width="80dp"
+                                android:layout_height="match_parent"
+                                android:gravity="right"
+                                android:text="場所"
+                                android:layout_weight="0.42" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.2">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="本文"
+                        android:id="@+id/Info_message"
+                        android:textSize="20sp"/>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="bottom">
+
+                        <ImageView
+                            android:id="@+id/Info_image"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>

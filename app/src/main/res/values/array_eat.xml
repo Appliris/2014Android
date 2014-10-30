@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="eat_image">
+        <item>@drawable/ec3</item>
+        <item>@drawable/ec4</item>
+        <item>@drawable/ci4</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/mb4</item>
+        <item>@drawable/ee3</item>
+        <item>@drawable/acmb2</item>
+        <item>@drawable/ec5</item>
+        <item>@drawable/mb3</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/roten01</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/roten05</item>
+        <item>@drawable/roten06</item>
+        <item>@drawable/roten07</item>
+        <item>@drawable/roten08</item>
+        <item>@drawable/roten09</item>
+        <item>@drawable/roten10</item>
+        <item>@drawable/roten11</item>
+        <item>@drawable/roten12</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/roten14</item>
+        <item>@drawable/roten15</item>
+        <item>@drawable/roten16</item>
+    </array>
+    <array name="eat_title">
+        <item>屋上フライアウェイ</item>
+        <item>焼き so Burn!</item>
+        <item>和風喫茶 -稜太-</item>
+        <item>ホットサンド</item>
+        <item>たこ焼きや！!</item>
+        <item>はな○るうどん</item>
+        <item>Gentle Coffee</item>
+        <item>ナンと！？カレー屋かつや</item>
+        <item>喫茶店urbanity</item>
+        <item>おでんの里</item>
+        <item>金だこ</item>
+        <item>米米</item>
+        <item>☆Chona-bucks☆Cofee</item>
+        <item>スマイルコロッケ丸山</item>
+        <item>らきょ山のコンポタ</item>
+        <item>VientNam Team</item>
+        <item>マレーちゃん</item>
+        <item>俺のチョコバナナ</item>
+        <item>EVER HIRAKATA</item>
+        <item>じゃがや</item>
+        <item>鉄板屋てっちゃん</item>
+        <item>陸上苑</item>
+        <item>マロマロ屋</item>
+        <item>豚汁亭</item>
+        <item>バド屋</item>
+        <item>COWGIRL’S TACOS</item>
+        <item>タピオカもるぞー</item>
+    </array>
+    <array name="eat_message">
+        <item>揚げ物の販売をします．美味しくします．</item>
+        <item>バーンバーンバーンバーン“焼き so burn!!!!”あなたの心を熱くする焼きそば作ります。ぜひあなたも焦がされてみては？</item>
+        <item>環境4年は喫茶店をやります。安くておいしい食べ物を提供します。今年はなんといってもお店の雰囲気づくりに力を入れました。校内を回っていてひと休みしたいときなど気軽に立ち寄ってください。</item>
+        <item>お昼ご飯にもおやつにも( ﾟ∀ﾟ)ﾁｮｳﾄﾞｲｲ!! ホットサンドをたったの150円から販売しております!ぜひ買ってください!!</item>
+        <item>男だけで！\n全力でたこ焼きを作り、全力で販売します！！\nただそれだけです！\nどうぞおこしください</item>
+        <item>昨年度に引き続き、うどんの販売を行います！\n数量限定！完売必須！！ぜひ一度ご賞味あれ</item>
+        <item>吟味を重ねた材料と、鍛錬を積んだ店員達による、誰もが紳士淑女になれる喫茶店です（子供用メニューあり）。</item>
+        <item>今年で4回目の出店となりました。今年が最後の出店となりますのでまだ食べたことがない方も，今まで食べたことがある方も是非いらしてください！\n\n\nなくなり次第終了します</item>
+        <item>また今年もあの企画が帰ってきました！美味しい紅茶やコーヒー用意してお待ちしておりますのでぜひご来店ください．</item>
+        <item>お、美味しいおでんを食べることが\nで、出来たら思わず言っちゃう\nん、んめぇなぁ～(´∀｀)</item>
+        <item>たこ焼き焼いてます！\n変わり種も用意してます！\nふらっと立ち寄ってみてください。</item>
+        <item>様々なサンドイッチを用意して皆様のご来店をお待ちしています！</item>
+        <item>青い空、白い雲、冷たいタピオカ!!美味しいチュロス!!をどうぞ(^-^)</item>
+        <item>長岡のB級グルメかも知れないこのコロッケいかがです？（ご一緒にらきょ山のコンポタもどうぞ）</item>
+        <item>石山正太郎が丹精込めて作ったコーンポタージュを販売します☆</item>
+        <item>ベトナムの料理といえばフォーです。フォーは麺類の一つです。せひ一回フォーを食べにきてください。</item>
+        <item>露店のメインはマレーシアの伝統的な食べ物です。ぜひナシレマとアヤムゴレンを食べてみてください！</item>
+        <item>あの「○の」株式会社監修のチョコバナナ専門店　ぜひ食べに来てください</item>
+        <item>ドネルチキン売ってます。写真は露店内容とは関係ありません。</item>
+        <item>新感覚!!ジャガイモなのにもちみたい!?ご賞味あれ!</item>
+        <item>出来立ての焼きうどんとお好み焼きをご用意してお待ちしてます!!</item>
+        <item>焼き鳥を売っています。食べてください（=´∀`）人（´∀`=）</item>
+        <item>たまたま、あなたのお口に。マカロニ、届けちゃいました。</item>
+        <item>具材の種類が豊富な美味しい豚汁です！是非食べに来てください！</item>
+        <item>ハッシュドポテト、コロッケ、味噌田楽、手作りストラップを販売しています。ぜひ来てみて下さい。</item>
+        <item>JK(女子高専生)が愛情込めて作るタコス！食べに来てください</item>
+        <item>ぷにぷに食感のタピオカが入ったドリンクを販売します！</item>
+
+    </array>
+    <array name="eat_person">
+        <item>電子制御工学科3年</item>
+        <item>電子制御工学科4年</item>
+        <item>環境都市工学科4年</item>
+        <item>機械工学科3年</item>
+        <item>機械工学科4年</item>
+        <item>物質工学科4年</item>
+        <item>電気電子\nシステム工学科3年</item>
+        <item>物質工学専攻2年</item>
+        <item>電子制御工学科5年</item>
+        <item>物質工学科3年</item>
+        <item>電気電子\nシステム工学科4年</item>
+        <item>mb4男子</item>
+        <item></item>
+        <item>Ci5</item>
+        <item>栃木県足利会</item>
+        <item>ベトナム留学生</item>
+        <item>マレーシア留学生</item>
+        <item>東アジアチョコバナナ連合</item>
+        <item>Acci2</item>
+        <item>バレーボール部</item>
+        <item>てっちゃんズ</item>
+        <item>陸上競技部</item>
+        <item>物質工学専攻科\n1・2年合同組</item>
+        <item>機械5年</item>
+        <item>バドミントン部</item>
+        <item>MB5女子</item>
+        <item>Tapioca MORUZO</item>
+    </array>
+    <array name="eat_place">
+        <item>6号館\n611講義室</item>
+        <item>6号館\n611講義室</item>
+        <item>6号館\n612講義室</item>
+        <item>6号館\n613講義室</item>
+        <item>6号館\n613講義室</item>
+        <item>6号館\n614講義室</item>
+        <item>4号館\n420講義室</item>
+        <item>4号館\n430講義室</item>
+        <item>6号館\n633講義室</item>
+        <item>6号館\n634講義室</item>
+        <item>6号館\n430講義室</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+        <item>露店</item>
+    </array>
+</resources>

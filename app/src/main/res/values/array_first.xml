@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="first_first_time">
+        <item>96</item>
+        <item>18</item>
+    </array>
+    <array name="first_first_event">
+        <item></item>
+        <item>吹奏楽部演奏会\n17:00～18：30</item>
+    </array>
+    <array name="first_first_no">
+        <item></item>
+        <item></item>
+    </array>
+
+    <array name="first_second_time">
+        <item>12</item>
+        <item>12</item>
+        <item>3</item>
+        <item>12</item>
+        <item>15</item>
+        <item>12</item>
+        <item>3</item>
+        <item>12</item>
+        <item>3</item>
+        <item>12</item>
+    </array>
+    <array name="first_second_event">
+        <item></item>
+        <item>学科対抗演劇\n機械\n10：00～11：00</item>
+        <item></item>
+        <item>学科対抗演劇\n電気電子システム\n11：15～12：15</item>
+        <item></item>
+        <item>学科対抗演劇\n環境都市\n13：30～14：30</item>
+        <item></item>
+        <item>学科対抗演劇\n電子制御\n14：45～15：45</item>
+        <item></item>
+        <item>学科対抗演劇\n物質\n16：00～17：00</item>
+    </array>
+    <array name="first_second_no">
+        <item></item>
+        <item>11</item>
+        <item></item>
+        <item>12</item>
+        <item></item>
+        <item>13</item>
+        <item></item>
+        <item>14</item>
+        <item></item>
+        <item>15</item>
+    </array>
+    <array name="first_final_time">
+        <item>60</item>
+        <item>18</item>
+        <item>24</item>
+        <item>6</item>
+    </array>
+    <array name="first_final_event">
+        <item></item>
+        <item>ダンス\n14：00～15：30</item>
+        <item></item>
+        <item>閉会式\n17：30～18：00</item>
+    </array>
+    <array name="first_final_no">
+        <item></item>
+        <item>1</item>
+        <item></item>
+        <item></item>
+    </array>
+
+</resources>

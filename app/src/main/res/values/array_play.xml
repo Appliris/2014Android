@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="play_image">
+        <item>@drawable/class5</item>
+        <item>@drawable/class4</item>
+        <item>@drawable/class1</item>
+        <item>@drawable/class2</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/ee2</item>
+        <item>@drawable/ec2</item>
+        <item>@drawable/mb2</item>
+        <item>@drawable/ci2</item>
+        <item>@drawable/ci3</item>
+        <item>@drawable/sumabura</item>
+        <item>@drawable/janso</item>
+        <item>@drawable/mikomiko</item>
+        <item>@drawable/katanuki</item>
+        <item>@drawable/yoyo</item>
+        <item>@drawable/aisu</item>
+        <item>@drawable/kousaku</item>
+
+
+    </array>
+    <array name="play_title">
+        <item>高専生でも賭けがしたい</item>
+        <item>お化け屋敷</item>
+        <item>いつヤるの？</item>
+        <item>遊技場</item>
+        <item>カードゲーム</item>
+        <item>GAY♂専2</item>
+        <item>Foolish Casino</item>
+        <item>WANTED!!</item>
+        <item>妖怪ウォッ○ンコ</item>
+        <item>お化け屋敷</item>
+        <item>スマブラトーナメント</item>
+        <item>雀荘</item>
+        <item>巫女みこダーツ</item>
+        <item>カタヌキ</item>
+        <item>水ヨーヨー釣り</item>
+        <item>”リケジョでサイエンス！”</item>
+        <item>電気工作室</item>
+
+    </array>
+    <array name="play_message">
+        <item>カジノゲームを用意しております。お菓子がとんでもない量、手に入るかも!?</item>
+        <item>1年4組は、1年3組と合同でお化け屋敷をします。他クラスに負けないお化け屋敷になっているので是非来てください。</item>
+        <item>1－1は「祭」をテーマとした企画を行います！成績が優秀な方に景品が貰えます！\n一緒に熱くなろうぜ♂</item>
+        <item>トランプやUNOなどのカードゲームでみんなと楽しめます。豪華な賞品もあるかもしれません！ぜひ来てみてください！</item>
+        <item>トランプを使ったゲーム（ばばぬき、大富豪、神経衰弱、７並べ　など）や、\nUNO、花札で遊ぶ。（トレーディングカードゲーム×）\n参加者にはお菓子を用意してます。</item>
+        <item>あの、伝説の企画が帰ってきた！君のハートを打ち抜く面白さ！景品もパワーアップしました！みんな、きてくださいね♡（注）射的です笑</item>
+        <item>この企画だけで使える通貨を配り、その通貨を賭けてゲームをしてもらう。通貨の量によって様々な景品を用意しておき自分の好きなタイミングで景品と通貨を交換してもらう。通貨は紙へ印刷などで作る。</item>
+        <item>物質2年は冒険型スタンプラリーを実施します。校内に散らばったターゲット達からスタンプを集めて景品をGETしましょう！</item>
+        <item>男、女、オカマ…\nかつてこの世の全てを手に入れたオカマ集団ci2\n彼らが高志祭で放った一言は人々を6号館2階へと駆り立てたっっ！！\n\n\n11月2日(3日目)はビンゴ大会です</item>
+        <item>今年で３年目の老舗お化け屋敷です。ガチで出るから来ない方がいいよ（はぁと</item>
+        <item>毎年恒例のこの企画が今年も始まる。\n君はこの壮絶なバトルで勝ち抜くことができるのか？\n\n\n11月 1日(土)  9：00～17：00\n11月 2日(日) 9：00～17：00 </item>
+        <item>無料で数卓開放します。1人や初心者の方も気軽に打ちに来て下さい！</item>
+        <item>かわいい(？)巫女さんとダーツはいかが？\n高得点でお菓子をプレゼント</item>
+        <item>縁日でおなじみのカタヌキです。\n高志祭を120%楽しむなら「こ↑こ↓」</item>
+        <item>1回100円でできる水ヨーヨー釣りと1回300円でスペシャルな水ヨーヨー釣りができます。</item>
+        <item>今流行りの電子工作と手芸を組み合わせたクラフト「テクノ手芸」を体験してみよう♪</item>
+        <item>電気学会東京支部新潟支所で毎年開講している小中学生向けの電子素子とハンダコテを使った電気工作教室を開講します。</item>
+    </array>
+    <array name="play_person">
+        <item>1年5組</item>
+        <item>1年4組\n1年3組</item>
+        <item>1年1組</item>
+        <item>1年2組</item>
+        <item>機械工学科2年</item>
+        <item>電気電子システム\n工学科2年</item>
+        <item>電子制御工学科2年</item>
+        <item>物質工学科2年</item>
+        <item>環境都市工学科2年</item>
+        <item>環境都市工学科3年</item>
+        <item>学園祭実行委員会</item>
+        <item>チーム小十郎</item>
+        <item>YLab</item>
+        <item>わさんぼん</item>
+        <item>小縁日</item>
+        <item>長岡高専\n男女共同参画室</item>
+        <item>一般社団法人電気学会\n東京支部新潟支所</item>
+
+    </array>
+    <array name="play_place">
+        <item>4号館\n411講義室</item>
+        <item>4号館\n412講義室</item>
+        <item>4号館\n421講義室</item>
+        <item>4号館\n422講義室</item>
+        <item>6号館\n621講義室</item>
+        <item>6号館\n622講義室</item>
+        <item>6号館\n623講義室</item>
+        <item>6号館\n624講義室</item>
+        <item>6号館\n625講義室</item>
+        <item>6号館\n635講義室</item>
+        <item>6号館\n651講義室</item>
+        <item>6号館\n652講義室</item>
+        <item>6号館\n653講義室</item>
+        <item>学生食堂前\n広場</item>
+        <item>学生食堂前\n広場</item>
+        <item>学生研究室\n2号館2階</item>
+        <item>2号館2階</item>
+    </array>
+</resources>

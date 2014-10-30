@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="watch_image">
+        <item>@drawable/art_shop</item>
+        <item>@drawable/oldbook</item>
+        <item>@drawable/garireo</item>
+        <item>@drawable/system</item>
+        <item>@drawable/desain</item>
+        <item>@drawable/mokei</item>
+        <item>@drawable/densan</item>
+        <item>@drawable/syashin</item>
+        <item>@drawable/shodoubu</item>
+        <item>@drawable/bizyutu</item>
+        <item>@drawable/bungei</item>
+        <item>@drawable/tikyu_lab</item>
+        <item>@drawable/rikezyo</item>
+        <item>@drawable/hurima</item>
+        <item>@drawable/robo</item>
+        <item>@drawable/tenmon</item>
+        <item>@drawable/inter</item>
+        <item>@drawable/me</item>
+        <item>@drawable/ee</item>
+        <item>@drawable/ec</item>
+        <item>@drawable/mb</item>
+        <item>@drawable/ci</item>
+
+    </array>
+    <array name="watch_title">
+        <item>Art-shop</item>
+        <item>古本市</item>
+        <item>ガリレオ教材を体感</item>
+        <item>制御システム研究同好会</item>
+        <item>デザイン部</item>
+        <item>模型同好会</item>
+        <item>電算機部</item>
+        <item>写真部</item>
+        <item>書道部</item>
+        <item>美術部</item>
+        <item>文芸部</item>
+        <item>平成26年度海外派遣研修報告会</item>
+        <item>”リケジョでサイエンス！”</item>
+        <item>フリーマーケット</item>
+        <item>ロボティクス部</item>
+        <item>天文同好会</item>
+        <item>インターアクトクラブ</item>
+        <item>学科発表 機械</item>
+        <item>学科発表 電気電子システム</item>
+        <item>学科発表 電子制御</item>
+        <item>学科発表 物質</item>
+        <item>学科発表 環境都市</item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+    </array>
+    <array name="watch_message">
+        <item>美術部の活動で制作したアクセサリーやストラップを数量限定で販売します。</item>
+        <item>普段なら手の届かない専門書、掘り出し物の名作の購入、無くした教科書の補充は古本市へ。\nフリマもいいけど古本市も忘れないでね。</item>
+        <item>ピタゴラスイッチを連想する、長岡高専の教職員が遊び心を持って本気で作ったガリレオ装置や実演を通して、不思議を体験しよう。</item>
+        <item>展示内容\n・自作電子回路\n・ライントレースロボット\n・自作ラジコン\n\n\n回路に電池をつなげるとLEDが点灯しますので\nご自由に試してみてください</item>
+        <item>デザイン部では、毎年11月に開催されるデザインコンペティションに向けて活動しています。これまでに制作した作品の展示を行いますので、ぜひ足を運んでみて下さい。</item>
+        <item>ガンプラや鉄道模型を展示しています。\nぜひ見に来てください</item>
+        <item>電算機部ではプログラミングを用いてゲームなどを作っています。\n今年の文化祭ではシューティングゲームを展示する予定です。\n是非やってみてください！</item>
+        <item>写真部は今年入部した部員が多く、部員数が増えました。様々な写真を撮り、多くアルバムを作成しました。ぜひ、見に来てください！</item>
+        <item>部員が制作した作品を展示して来場した方に見てもらいます。\nいろいろな種類の字体や大きさの作品がありますのでぜひ見ていってください。</item>
+        <item>当部は各部員が自由に作品作りに取り組んでいます。\n日々の活動で作成した良作を多数展示するので、創造的で不思議な世界観をぜひご覧になって下さい。</item>
+        <item>今年も部誌配布＆演劇をやります！ぜひ来てください！\n演目\n・out grow(30分)\n・心理テストとカウンセラー\n(10分)\n・朗読「人形姫」(30分)</item>
+        <item>海外派遣、タイ・マレーシア・ベトナムを訪れた学生の体験を報告！</item>
+        <item>理系女子（リケジョ）のお仕事を紹介するロールモデル講演会です。\n\n\n11月2日(日)13：00～14：00</item>
+        <item>あらゆる高専生の私物が集まるフリーマーケット！\n”高専生らしい”あんな物やこんな物が…？\n\n\n10月31日(金)10：00～16時：00\n11月 1日(土)10：00～16時：00\n11月 2日(日) 9：00～14：00</item>
+        <item>今回の展示の1つはNHK高専ロボコン2012で活躍した、「大犬闘」です。このロボットはカメラで人の動きを認識してそれに合わせて競技を行います。地区大会ではアイディア賞と特別賞を受賞しました。もう1つはロボカップジュニアで活躍した「The World」です。このロボットは日本大会で優勝、世界大会出場というすばらしい結果を残しました。</item>
+        <item>星の写真、望遠鏡の展示をしています。</item>
+        <item>今回の文化祭では私たちの活動を紹介します。ぜひ来てください。</item>
+        <item>機械工学科の学生有志が3年の総合製作で製作した野菜収穫・運搬ロボットの展示と競技会を行います．野菜に見立てた種々の形状・サイズ・重量のオブジェクトを収穫するロボットを，アイディアを出し合って設計・製作しました．また，機械工学科の紹介や研究成果，3Dプリンターなどの最新設備の展示も行います．</item>
+        <item>「電気をつくる・あやつる・みる」静電気からロボットまで電気に関するいろいろな実験を体験・体感できるブースです。\n普段味わえない電気の不思議な世界をのぞいてみませんか！！ぜひ、お越しください！！</item>
+        <item>電子制御工学科の紹介ブースは、4年生が中心になって行います。\n本学科の特徴のひとつは、メカニクス、電子回路、情報処理の技術が融合したメカトロ機器を意識しながら勉強できるところです。今回は、こうした学科の特徴を説明したパネルと電子回路製作で作った作品を中心に展示しています。</item>
+        <item>物質工学科の過去、現在、未来。物質工学科の歴史、今日の学生のすがた、そして学生と学科の将来像をお見せします。また、現物の約1億倍の分子モデル作製等の体験コーナーもあります。来たれ！物質工学科へ</item>
+        <item>環境都市工学科の概要などを、パネルを使って展示します。さらに、環境都市工学科の各研究室について、研究室に配属したての4年生が中心となって紹介します</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="watch_person">
+        <item>AC’s Project</item>
+        <item>図書委員会</item>
+        <item>ガリレオ教材\n作製メンバー</item>
+        <item>制御システム\n研究同好会</item>
+        <item>デザイン部</item>
+        <item>模型同好会</item>
+        <item>電算機部</item>
+        <item>写真部</item>
+        <item>書道部</item>
+        <item>美術部</item>
+        <item>文芸部</item>
+        <item>国際交流推進センター</item>
+        <item>長岡高専\n男女共同参画室</item>
+        <item>フリーマーケット頭</item>
+        <item>ロボティクス部</item>
+        <item>天文同好会</item>
+        <item>インターアクトクラブ</item>
+        <item>機械工学科4年</item>
+        <item>電気電子\nシステム工学科4年</item>
+        <item>電子制御工学科4年</item>
+        <item>物質工学科4年</item>
+        <item>環境都市工学科4年</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </array>
+    <array name="watch_place">
+        <item>6号館614講義室\n隣小部屋</item>
+        <item>図書館1階\n学習室前</item>
+        <item>6号館\n2階テラス</item>
+        <item>6号館\n2階テラス</item>
+        <item>6号館\n2階テラス</item>
+        <item>6号館\n3階テラス</item>
+        <item>6号館\n3階テラス</item>
+        <item>6号館\n631講義室</item>
+        <item>6号館\n631講義室</item>
+        <item>6号館\n631講義室</item>
+        <item>6号館\n632講義室</item>
+        <item>4号館\n441講義室</item>
+        <item>4号館\n441講義室</item>
+        <item>4号館\n440講義室</item>
+        <item>6号館\n4階テラス</item>
+        <item>6号館\n4階テラス</item>
+        <item>6号館\n4階テラス</item>
+        <item>6号館\n643講義室</item>
+        <item>6号館\n644講義室</item>
+        <item>6号館\n644講義室</item>
+        <item>6号館\n645講義室</item>
+        <item>6号館\n645講義室</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+</resources>

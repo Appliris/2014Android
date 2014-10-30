@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="other_first_time">
+        <item>6</item>
+    </array>
+    <array name="other_first_event">
+        <item>開会式\n 9：00～ 9：30　4号館前</item>
+    </array>
+    <array name="other_first_no">
+        <item></item>
+    </array>
+
+    <array name="other_second_time">
+        <item>42</item>
+        <item>6</item>
+        <item>42</item>
+    </array>
+    <array name="other_second_event">
+        <item></item>
+        <item>吹奏楽部活紹介\n12：30～13：00　本部前</item>
+        <item>LIVE JAMJAM\n13：00～16：30　食堂</item>
+    </array>
+    <array name="other_second_no">
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="other_final_time">
+        <item>42</item>
+        <item>6</item>
+        <item>36</item>
+        <item>24</item>
+        <item>6</item>
+    </array>
+    <array name="other_final_event">
+        <item></item>
+        <item>吹奏楽部活紹介\n12：30～13：00　本部前</item>
+        <item>LIVE JAMJAM\n13：00～16：00　食堂</item>
+        <item></item>
+        <item>花火\n18：00～18：30　高専坂</item>
+    </array>
+    <array name="other_final_no">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+
+</resources>

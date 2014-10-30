@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="second_first_time">
+        <item>48</item>
+        <item>60</item>
+    </array>
+    <array name="second_first_event">
+        <item></item>
+        <item>高専美少女図鑑\n13:00～17：00</item>
+    </array>
+    <array name="second_no">
+        <item></item>
+        <item></item>
+    </array>
+
+    <array name="second_second_time">
+        <item>12</item>
+        <item>12</item>
+        <item>36</item>
+        <item>12</item>
+    </array>
+    <array name="second_second_event">
+        <item></item>
+        <item>ビンゴ大会①\n10：00～11：00</item>
+        <item></item>
+        <item>ビンゴ大会②\n14：00～15：00</item>
+    </array>
+    <array name="second_second_no">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+
+</resources>

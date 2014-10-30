@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:layout_weight="10">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="天才少年と未来少女"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/enngeki_bou"
+                android:layout_weight="10"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/engeki_ec"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:src="@drawable/enngeki_bou"
+                android:layout_weight="10"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="周囲を見下して生きている，その辺にいそうな『極普通』の天才少年の前に現れたのは，その辺にいそうな『極普通』の自称未来人の少女．
+発展しきった世界．人間の腐った心．時を渡る少女．知能と苦悩．世界に存在してはいけないモノ． 少年は何を得て何を捨てるのか．本当に大切なモノを知る物語\n3連覇します．"
+            android:textColor="#FFFFFF"
+        android:id="@+id/textView" />
+    </LinearLayout>
+</LinearLayout>
